@@ -169,8 +169,8 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 \*_Projects marked as open source may not always be open to use. Always check the license of these projects before using them._
 
-Although 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three.
+Although "design systems", "ui libraries", and "pattern libraries" are different things, they are often used interchangeably. This list contains all three.
 
 ### Credits
 
-Cover icon: 'Solar System' by Andrejs Kirma from the Noun Project
+Cover icon: "Solar System" by Andrejs Kirma from the Noun Project
